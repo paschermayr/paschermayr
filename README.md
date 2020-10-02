@@ -1,5 +1,5 @@
 
-I am a PhD student in Statistics at the London School of Economics, advised by [Kostas Kalogeropoulos](http://www.lse.ac.uk/Statistics/People/Dr-Kostas-Kalogeropoulos) and [Pauline Barrieu](http://stats.lse.ac.uk/barrieu/), and funded by the [ESRC](https://esrc.ukri.org/skills-and-careers/doctoral-training/). My main research interests revolve around Bayesian inference on state space models.
+I am a PhD candidate in Statistics at the London School of Economics, advised by [Kostas Kalogeropoulos](http://www.lse.ac.uk/Statistics/People/Dr-Kostas-Kalogeropoulos) and [Pauline Barrieu](http://stats.lse.ac.uk/barrieu/), and funded by the [ESRC](https://esrc.ukri.org/skills-and-careers/doctoral-training/). My main research interests revolve around Bayesian inference on state space models.
 
 Before I joined LSE, I obtained a master's degree in [Quantitative Finance](https://www.msfinance.uzh.ch/en.html) from ETH Zurich and University of Zurich. I have work experience in asset management through the excellent [portfolio management program](https://www.cpm.uzh.ch/en.html) during my master's studies, and from internships in the research and portfolio management division at Deutsche Bank/Deutsche Asset Management . A copy of my CV can be downloaded [here](https://paschermayr.github.io/files/cv/cv.pdf).
 
