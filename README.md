@@ -7,5 +7,5 @@ Core Expertise:
 - Sequential learning algorithms and regime detection
 - State space modeling and probabilistic inference
 
-Beyond my professional work, I have contributed to open-source projects and share technical insights on my [website](https://paschermayr.github.io). I am happy to engage with fellow quantitative professionals and researchers exploring innovative applications in financial markets.
+Beyond my professional work, I have contributed to open-source projects and share technical insights on my [homepage](https://paschermayr.github.io). I am happy to engage with fellow quantitative professionals and researchers exploring innovative applications in financial markets.
 
