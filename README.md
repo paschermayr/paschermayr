@@ -1,5 +1,11 @@
-I am currently employed as a Quantitative Researcher at [Brevan Howard](https://www.brevanhoward.com/). Prior to joining Brevan Howard, I successfully completed my PhD in Statistics at the [London School of Economics](http://www.lse.ac.uk/). During my doctoral journey, I was advised by [Kostas Kalogeropoulos](http://www.lse.ac.uk/Statistics/People/Dr-Kostas-Kalogeropoulos) and [Pauline Barrieu](http://stats.lse.ac.uk/barrieu/). 
+Quantitative Researcher | Bayesian Statistics | Financial Markets
 
-My PhD studies primarily focused on the application of Sequential Bayesian Learning for State Space Models. This involved developing methodologies to estimate model parameters in both batch and time series settings, with a particular emphasis on latent variable models.
+I am currently a Quantitative Researcher at Brevan Howard, where I develop and implement statistical methodologies for financial markets. I hold a PhD in Statistics from the London School of Economics, where I specialized in Sequential Bayesian Learning for State Space Models under the guidance of Kostas Kalogeropoulos and Pauline Barrieu. My doctoral research centered on developing methodologies for parameter estimation in dynamic systems, with particular emphasis on latent variable models and time-varying environments.
 
-In addition to my academic pursuits, I have actively contributed to the open source community. You can find some of my notable contributions [here](https://paschermayr.github.io/#opensource). Furthermore, if you would like to review my detailed qualifications and professional experiences, you can download a copy of my CV [here](uploads/resume.pdf).
+Core Expertise:
+- Bayesian statistical methods and uncertainty quantification
+- Sequential learning algorithms and regime detection
+- State space modeling and probabilistic inference
+
+Beyond my professional work, I have contributed to open-source projects and share technical insights on my [website](https://paschermayr.github.io). I am happy to engage with fellow quantitative professionals and researchers exploring innovative applications in financial markets.
+
