@@ -1,11 +1,11 @@
 Quantitative Researcher | Bayesian Statistics | Financial Markets
 
 Core Expertise:
-- Bayesian statistical methods and uncertainty quantification
-- Sequential learning algorithms and regime detection
-- State space modeling and probabilistic inference
+- Bayesian methods for financial markets with focus on uncertainty quantification and probabilistic inference
+- Specialized in sequential learning algorithms to detect regime changes and structural shifts in time-series data
+- Adept at building production systems with ability to quickly pivot between research topics
 
-I am currently a Quantitative Researcher at Brevan Howard, where I develop and implement statistical methodologies for financial markets. 
+Hi there! I'm a quantitative researcher at Brevan Howard, where I develop statistical frameworks for signal generation in global macro markets. I have experience building and deploying Bayesian models that help navigate regime changes and market transitions.
 
 I hold a PhD in Statistics from the London School of Economics, where I specialized in Sequential Bayesian Learning for State Space Models under the guidance of Kostas Kalogeropoulos and Pauline Barrieu. My doctoral research centered on developing methodologies for parameter estimation in dynamic systems, with particular emphasis on latent variable models and time-varying environments.
 
